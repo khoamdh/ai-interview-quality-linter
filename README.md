@@ -25,6 +25,7 @@ Each conversation is classified into one of five screening outcomes:
 
 ## How it works
 
+```text
 Employee signal
       ↓
 Did the interviewer develop it?
@@ -34,6 +35,7 @@ Was useful insight produced?
 Were interviewing defects detected?
       ↓
 Conversation outcome
+```
 
 ## Usage
 
