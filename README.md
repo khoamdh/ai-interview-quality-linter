@@ -40,7 +40,7 @@ Conversation outcome
 ## Usage
 
 ```bash
-python src/transcript_linter.py examples/sample_conversations.json \
+python src/transcript_linter.py example-conversations/sample_conversations.json \
   --out-csv results.csv \
   --out-json results.json \
   --summary summary.json
